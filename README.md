@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/ignews.gif"/> 
+  <img src="public/upfi.gif"/> 
 </h1>
 <h1 align="center" widht="50%">
   <img alt="Nextjs" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
